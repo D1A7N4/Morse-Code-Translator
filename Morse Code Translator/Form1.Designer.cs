@@ -69,7 +69,7 @@
             this.BTN_From.Name = "BTN_From";
             this.BTN_From.Size = new System.Drawing.Size(143, 46);
             this.BTN_From.TabIndex = 3;
-            this.BTN_From.Text = "Translate to morse code";
+            this.BTN_From.Text = "Translate from morse code";
             this.BTN_From.UseVisualStyleBackColor = true;
             this.BTN_From.Click += new System.EventHandler(this.BTN_From_Click);
             // 
@@ -79,7 +79,7 @@
             this.BTN_To.Name = "BTN_To";
             this.BTN_To.Size = new System.Drawing.Size(143, 46);
             this.BTN_To.TabIndex = 6;
-            this.BTN_To.Text = "Translate from morse code";
+            this.BTN_To.Text = "Translate to morse code";
             this.BTN_To.UseVisualStyleBackColor = true;
             this.BTN_To.Click += new System.EventHandler(this.BTN_To_Click);
             // 
